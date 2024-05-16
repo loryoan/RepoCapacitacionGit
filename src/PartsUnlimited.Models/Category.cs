@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //Este es un cambo desde el local
         //Cambio desde servidor
         //Este es otro cambio desde el srvidor
         public int CategoryId { get; set; }
