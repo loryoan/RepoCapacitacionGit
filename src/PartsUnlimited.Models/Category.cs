@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //Cambio desde servidor
         public int CategoryId { get; set; }
 
         [Required]
