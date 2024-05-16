@@ -1,4 +1,4 @@
-﻿// Copyright (c) Microsoft. All rights reserved.
+ e﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
 using System.Collections.Generic;
@@ -9,6 +9,7 @@ namespace PartsUnlimited.Models
     public class Category
     {
         //Cambio desde servidor
+        //Este es otro cambio desde el srvidor
         public int CategoryId { get; set; }
 
         [Required]
