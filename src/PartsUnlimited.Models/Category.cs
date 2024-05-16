@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //Este es un cambo desde el local
         public int CategoryId { get; set; }
 
         [Required]
