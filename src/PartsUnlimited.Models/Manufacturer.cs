@@ -5,7 +5,6 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    //Cambio de prueba
     public class Manufacturer
     {
         public int ManufacturerId { get; set; }
